@@ -30,3 +30,35 @@ C:\Users\Valen\OneDrive\Bureau\Efrei 2022-2023\C#\ValentinRoyerCsharpProjet\Vale
 C:\Users\Valen\OneDrive\Bureau\Efrei 2022-2023\C#\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.pdb
 C:\Users\Valen\OneDrive\Bureau\Efrei 2022-2023\C#\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.genruntimeconfig.cache
 C:\Users\Valen\OneDrive\Bureau\Efrei 2022-2023\C#\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ref\ValentinRoyerCsharpProjet.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\ValentinRoyerCsharpProjet.exe
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\ValentinRoyerCsharpProjet.deps.json
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\ValentinRoyerCsharpProjet.runtimeconfig.json
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\ValentinRoyerCsharpProjet.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\ValentinRoyerCsharpProjet.pdb
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.csproj.AssemblyReference.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\View\GestionView.g.cs
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\View\ModifClientView.g.cs
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet_MarkupCompile.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet_MarkupCompile.lref
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\View\GestionView.baml
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\View\ModifClientView.baml
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.g.resources
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.AssemblyInfoInputs.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.AssemblyInfo.cs
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.csproj.CoreCompileInputs.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.csproj.CopyComplete
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\refint\ValentinRoyerCsharpProjet.dll
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.pdb
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ValentinRoyerCsharpProjet.genruntimeconfig.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\ValentinRoyerCsharopProjet\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\obj\Debug\net6.0-windows\ref\ValentinRoyerCsharpProjet.dll

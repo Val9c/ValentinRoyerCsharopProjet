@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ValentinRoyerCsharpProjet.View"
         mc:Ignorable="d"
         Title="ModifClientView" MaxHeight="500" MaxWidth="350" MinHeight="500" MinWidth="350"
-        WindowStartupLocation="CenterScreen" Icon="C:\Users\Valen\OneDrive\Bureau\Efrei 2022-2023\C#\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\Images\My_Banque.png">
+        WindowStartupLocation="CenterScreen">
     <Grid>
         <Label Content="N°client:" Name="IdClient" HorizontalAlignment="Left" Margin="36,45,0,0"
                VerticalAlignment="Top" Width="67" />

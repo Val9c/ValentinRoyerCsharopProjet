@@ -15,8 +15,4 @@
       <PackageReference Include="MySql.Data" Version="8.0.30" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Resource Include="View\My_Banque.png" />
-    </ItemGroup>
-
 </Project>
