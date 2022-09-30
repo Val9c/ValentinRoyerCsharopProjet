@@ -1,0 +1,34 @@
+﻿<Window x:Class="ValentinRoyerCsharpProjet.View.ModifClientView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:ValentinRoyerCsharpProjet.View"
+        mc:Ignorable="d"
+        Title="ModifClientView" MaxHeight="500" MaxWidth="350" MinHeight="500" MinWidth="350"
+        WindowStartupLocation="CenterScreen" Icon="C:\Users\Valen\OneDrive\Bureau\Efrei 2022-2023\C#\ValentinRoyerCsharpProjet\ValentinRoyerCsharpProjet\Images\My_Banque.png">
+    <Grid>
+        <Label Content="N°client:" Name="IdClient" HorizontalAlignment="Left" Margin="36,45,0,0"
+               VerticalAlignment="Top" Width="67" />
+        <Label Content="Nom du client:" Name="NomClient" HorizontalAlignment="Left" Margin="36,120,0,0"
+               VerticalAlignment="Top" Width="89" />
+        <Label Content="Prénom du client:" Name="PrenomClient" HorizontalAlignment="Left" Margin="36,0,0,0"
+               VerticalAlignment="Center" Width="106" />
+        <Label Content="Adresse du client:" Name="AdresseClient" HorizontalAlignment="Left" Margin="36,285,0,0"
+               VerticalAlignment="Top" Width="103" />
+
+
+        <TextBox Name="IdClientTb" HorizontalAlignment="Left" Margin="170,53,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="140" IsEnabled="False" />
+        <TextBox Name="NomClientTb" HorizontalAlignment="Left" Margin="170,128,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="140" IsEnabled="False" />
+        <TextBox Name="PrenomClientTb" HorizontalAlignment="Left" Margin="170,212,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="140" IsEnabled="False" />
+        <TextBox Name="AdresseClientTb" HorizontalAlignment="Left" Margin="170,293,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="140" />
+
+        <Button Content="Valider" Name="BtnValider" HorizontalAlignment="Left" Margin="223,385,0,0"
+                VerticalAlignment="Top" Height="39"
+                Width="67" Click="BtnValider_OnClick" />
+    </Grid>
+</Window>
